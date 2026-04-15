@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    <!-- Search screen -->
+    <string name="search_title">Weather</string>
+    <string name="search_subtitle">Check the forecast for your city</string>
+    <string name="search_placeholder">City name\u2026</string>
+    <string name="search_error_title">Something went wrong</string>
+    <string name="search_invalid_query_title">Invalid city name</string>
+    <string name="search_invalid_query_subtitle">Use letters, spaces, hyphens or apostrophes (min. 2 chars)</string>
+    <string name="search_recent_label">Recent searches</string>
+
+    <!-- Weather details screen -->
+    <string name="back_button_description">Back</string>
+    <string name="weather_feels_like">Feels like %1$d\u00B0</string>
+    <string name="weather_stat_wind">Wind</string>
+    <string name="weather_wind_speed">%1$d km/h</string>
+    <string name="weather_stat_humidity">Humidity</string>
+    <string name="weather_humidity_value">%1$d%%</string>
+    <string name="weather_section_hourly">HOURLY</string>
+    <string name="weather_section_daily">5-DAY FORECAST</string>
+    <string name="weather_error_failed_to_load">Failed to load</string>
+    <string name="weather_retry">Retry</string>
+    <string name="error_unknown">Unknown error</string>
+</resources>
